@@ -82,7 +82,7 @@
  '(icompletep-keys ((t (:foreground "#F92672"))))
  '(icompletep-nb-candidates ((t (:foreground "#AE81FF"))))
  '(isearch ((t (:foreground "#dddddd" :background "#C4BE89"))))
- '(isearch-fail ((t (:foreground "#FFFFFF" :background "#333333"))))
+ '(isearch-fail ((t (:foreground "#FFFFFF" :background "#CD2C24"))))
  '(markdown-italic-face ((t (:slant italic))))
  '(markdown-bold-face ((t (:weight bold))))
  '(markdown-header-face ((t (:weight normal))))
