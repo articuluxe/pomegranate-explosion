@@ -55,7 +55,7 @@
  '(mode-line ((t (:foreground "#F8F8F2" :background "#000000"
                               :box (:line-width 1 :color "#000000" :style released-button)))))
  '(mode-line-buffer-id ((t (:foreground nil :background "#000000" :weight semi-bold))))
- '(mode-line-inactive ((t (:foreground "#BCBCBC" :background "#000000"
+ '(mode-line-inactive ((t (:foreground "#BCBCBC" :background "SlateGray4"
                                        ':box (:line-width 1 :color "#232526")))))
  '(mode-line-mousable ((t (:foreground "#BCBCBC" :background "#000000"))))
  '(mode-line-mousable-minor-mode ((t (:foreground "#BCBCBC" :background "#000000"))))
@@ -162,5 +162,4 @@
                (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'pomegranate-explosion)
-
-;;; molokai-theme.el ends here
+;;; pomegranate-explosion-theme.el ends here
